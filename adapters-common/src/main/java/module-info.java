@@ -1,0 +1,3 @@
+module onlineordersystem.adapters.common {
+
+}
